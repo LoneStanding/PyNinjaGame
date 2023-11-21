@@ -6,12 +6,30 @@ Using the Pygame framework, the Ninja Legends game offers a dynamic and captivat
 
 ## Introduction
 
-The Pygame framework serves as a fundamental component in the development of the Ninja Legends game, offering a user-friendly and adaptable platform for creating complex, immersive landscapes. This project showcases how Pygame's technical expertise, coupled with developers' artistic vision, can create a gaming experience that transcends traditional side-scrolling platformers.
-
-## Background Information
-
-Pygame's ease of use removes a long-standing obstacle in the game development community, attracting a wider audience interested in learning about the complexities of creating 2D games. Its cross-platform compatibility and built-in modules for graphics, sound effects, and background music streamline the development process. The active Pygame community further enhances its appeal, providing strong support through documentation and a collaborative environment.
+The Pygame framework serves as a fundamental component in the development of the Ninja Legends game, offering a user-friendly and adaptable platform for creating complex, immersive landscapes. This project showcases how Pygame's technical expertise, coupled with artistic vision which, can create a traditional side-scrolling platformer.
 
 ## Technology Used
 
 The Ninja game created with Pygame involves various Python concepts and game development principles, including Object-Oriented Programming (OOP), inheritance, modules and libraries, lists and dictionaries, control statements, and mathematical calculations.
+
+## Results
+
+Ninja Legends successfully incorporates various Python concepts and Pygame features to create an enjoyable gaming experience. The game includes responsive controls, dynamic movements, and a progression system through different levels. The use of Pygame has improved the game's responsiveness and reduced the development cycle.
+
+![Start Page](images/image1.png)
+*Figure 1: Start Page*
+
+![Level Menu](images/image2.png)
+*Figure 2: Level Menu*
+
+![Level 1 of the game](images/image3.png)
+*Figure 3: Level 1 of the game*
+
+![Enemies and player jumping between tiles](images/image4.png)
+*Figure 4: Enemies and player jumping between tiles*
+
+![Player in the middle of dash attack](images/image5.png)
+*Figure 5: Player in the middle of dash attack*
+
+![Player has killed the enemy](images/image6.png)
+*Figure 6: Player has killed the enemy*
