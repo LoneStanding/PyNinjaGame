@@ -20,16 +20,16 @@ Ninja Legends successfully incorporates various Python concepts and Pygame featu
 *Figure 1: Start Page*
 
 ![Level Menu](images/image2.png)<br>
-<p align="center">*Figure 2: Level Menu*</p>
-<br>
+<p align="center">Figure 2: Level Menu</p>
+
 ![Level 1 of the game](images/image3.png)<br>
-<p align="center">*Figure 3: Level 1 of the game*</p>
-<br>
+<p align="center">Figure 3: Level 1 of the game</p>
+
 ![Enemies and player jumping between tiles](images/image4.png)<br>
-<p align="center">*Figure 4: Enemies and player jumping between tiles*</p>
-<br>
+<p align="center">Figure 4: Enemies and player jumping between tiles</p>
+
 ![Player in the middle of dash attack](images/image5.png)<br>
-<p align="center">*Figure 5: Player in the middle of dash attack*</p>
-<br>
+<p align="center">Figure 5: Player in the middle of dash attack</p>
+
 ![Player has killed the enemy](images/image6.png)<br>
 <p align="center">Figure 6: Player has killed the enemy</p>
