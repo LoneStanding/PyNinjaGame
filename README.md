@@ -16,21 +16,20 @@ The Ninja game created with Pygame involves various Python concepts and game dev
 
 Ninja Legends successfully incorporates various Python concepts and Pygame features to create an enjoyable gaming experience. The game includes responsive controls, dynamic movements, and a progression system through different levels. The use of Pygame has improved the game's responsiveness and reduced the development cycle.
 
-|![Start Page](images/image1.png)|
-|:-------:|
-|*Figure 1: Start Page*|
+![Start Page](images/image1.png)<br>
+*Figure 1: Start Page*
 
-![Level Menu](images/image2.png)
+![Level Menu](images/image2.png)<br>
 *Figure 2: Level Menu*
 
-![Level 1 of the game](images/image3.png)
+![Level 1 of the game](images/image3.png)<br>
 *Figure 3: Level 1 of the game*
 
-![Enemies and player jumping between tiles](images/image4.png)
+![Enemies and player jumping between tiles](images/image4.png)<br>
 *Figure 4: Enemies and player jumping between tiles*
 
-![Player in the middle of dash attack](images/image5.png)
+![Player in the middle of dash attack](images/image5.png)<br>
 *Figure 5: Player in the middle of dash attack*
 
-![Player has killed the enemy](images/image6.png)
+![Player has killed the enemy](images/image6.png)<br>
 *Figure 6: Player has killed the enemy*
